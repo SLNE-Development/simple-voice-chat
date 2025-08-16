@@ -115,6 +115,7 @@
   "message.voicechat.show_group_hud.disabled": "Nhấn để ẩn nhóm ở HUD",
   "message.voicechat.recording.disabled": "Nhấn để bắt đầu ghi âm",
   "message.voicechat.recording.enabled": "Nhấn để dừng ghi âm",
+  "message.voicechat.no_speak_blocked": "Máy chủ đang chặn khả năng nói của bạn",
   "message.voicechat.no_speak_permission": "Bạn không có quyền để nói",
   "message.voicechat.no_listen_permission": "Bạn không có quyền để nghe voice chat",
   "message.voicechat.no_group_permission": "Bạn không có quyền tham gia nhóm",

@@ -115,6 +115,7 @@
   "message.voicechat.show_group_hud.disabled": "グループアイコンを表示",
   "message.voicechat.recording.disabled": "録音を開始",
   "message.voicechat.recording.enabled": "録音を停止",
+  "message.voicechat.no_speak_blocked": "サーバーがあなたの発言をブロックしています",
   "message.voicechat.no_speak_permission": "発言する権限がありません",
   "message.voicechat.no_listen_permission": "ボイスチャットを聞く権限がありません",
   "message.voicechat.no_group_permission": "グループに参加する権限がありません",

@@ -58,5 +58,6 @@
   "message.voicechat.onboarding.final.description.ptt": "Maintenez %s enfoncé pendant que vous parlez pour utiliser le chat vocal.",
   "message.voicechat.onboarding.final.description.voice": "Vous serez en mode muet en quittant cet écran. Appuyez sur %s pour activer votre microphone.",
   "message.voicechat.onboarding.final.description.configuration": "Vous pouvez toujours modifier tous les paramètres dans le menu du chat vocal.\nLes touches peuvent être modifiées comme n'importe quelle autre touche dans le jeu.",
-  "message.voicechat.onboarding.final.finish_setup": "Terminer la configuration"
+  "message.voicechat.onboarding.final.finish_setup": "Terminer la configuration",
+  "message.voicechat.no_speak_blocked": "Le serveur bloque votre possibilité de parler"
 }

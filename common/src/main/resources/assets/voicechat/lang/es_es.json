@@ -115,6 +115,7 @@
   "message.voicechat.show_group_hud.disabled": "Pulsar para mostrar el chat de grupo HUD",
   "message.voicechat.recording.disabled": "Pulse para iniciar la grabación",
   "message.voicechat.recording.enabled": "Pulse para detener la grabación",
+  "message.voicechat.no_speak_blocked": "El servidor bloquea tu posibilidad de hablar",
   "message.voicechat.no_speak_permission": "No tiene permiso para hablar",
   "message.voicechat.no_listen_permission": "Usted no tiene permiso para escuchar el chat de voz",
   "message.voicechat.no_group_permission": "No tienes permiso para unirte a grupos",

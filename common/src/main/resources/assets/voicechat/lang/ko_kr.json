@@ -115,6 +115,7 @@
   "message.voicechat.show_group_hud.disabled": "그룹 채팅 HUD를 표시하려면 누르세요",
   "message.voicechat.recording.disabled": "녹음을 시작하려면 누르세요",
   "message.voicechat.recording.enabled": "녹음을 중단하려면 누르세요",
+  "message.voicechat.no_speak_blocked": "서버가 당신의 발언을 차단하고 있습니다",
   "message.voicechat.no_speak_permission": "말할 수 있는 권한이 없습니다",
   "message.voicechat.no_listen_permission": "음성 채팅 듣기 권한이 없습니다.",
   "message.voicechat.no_group_permission": "그룹에 들어갈 수 있는 권한이 없습니다",

@@ -112,6 +112,7 @@
   "message.voicechat.show_group_hud.disabled": "Төркем чат интерфейсын күрсәтү өчен басыгыз",
   "message.voicechat.recording.disabled": "Яздыруны башлау өчен басыгыз",
   "message.voicechat.recording.enabled": "Яздыруны туктату өчен басыгыз",
+  "message.voicechat.no_speak_blocked": "Сервер сезнең сөйләү мөмкинлегегезне блоклый",
   "message.voicechat.no_speak_permission": "Сезгә сөйләшеп булмый; хокук юк",
   "message.voicechat.no_listen_permission": "Сезгә тавышлы чатны тыңлап булмый; хокук юк",
   "message.voicechat.no_group_permission": "Сезгә төркемнәргә кушылып булмый; хокук юк",

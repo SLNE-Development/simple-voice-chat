@@ -96,6 +96,7 @@
   "message.voicechat.show_group_hud.disabled": "Apretá para mostrar el menú de chat grupal",
   "message.voicechat.recording.disabled": "Apretá para empezar a grabar",
   "message.voicechat.recording.enabled": "Apretá para parar de grabar",
+  "message.voicechat.no_speak_blocked": "El servidor bloquea tu posibilidad de hablar",
   "message.voicechat.no_speak_permission": "No tenés permiso para hablar",
   "message.voicechat.no_group_permission": "No tenés permiso para unirte a grupos",
   "message.voicechat.search_hint": "Buscar...",

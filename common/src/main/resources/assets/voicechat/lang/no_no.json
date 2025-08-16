@@ -112,6 +112,7 @@
   "message.voicechat.show_group_hud.disabled": "Trykk for å vise gruppeprat HUD",
   "message.voicechat.recording.disabled": "Trykk for å starte opptak",
   "message.voicechat.recording.enabled": "Trykk for å stoppe opptak",
+  "message.voicechat.no_speak_blocked": "Serveren blokkerer muligheten din til å snakke",
   "message.voicechat.no_speak_permission": "Du har ikke tillatelse til å prate",
   "message.voicechat.no_listen_permission": "Du har ikke tillatelse til å høre stemmepraten",
   "message.voicechat.no_group_permission": "Du har ikke tillatelse til å bli med i grupper",

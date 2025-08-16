@@ -27,5 +27,6 @@
   "message.voicechat.back": "Enrere",
   "message.voicechat.client_not_connected": "El client no està connectat",
   "message.voicechat.icons_hidden": "Icones del xat de veu amagats",
-  "message.voicechat.icons_visible": "Icones del xat de veu visibles"
+  "message.voicechat.icons_visible": "Icones del xat de veu visibles",
+  "message.voicechat.no_speak_blocked": "El servidor bloqueja la teva possibilitat de parlar"
 }

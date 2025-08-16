@@ -27,5 +27,6 @@
   "message.voicechat.back": "Terug",
   "message.voicechat.client_not_connected": "Client niet verbonden",
   "message.voicechat.icons_hidden": "Verborgen pictogrammen voor spraakchat",
-  "message.voicechat.icons_visible": "Zichtbare pictogrammen voor spraakchat"
+  "message.voicechat.icons_visible": "Zichtbare pictogrammen voor spraakchat",
+  "message.voicechat.no_speak_blocked": "De server blokkeert je mogelijkheid om te spreken"
 }

@@ -121,7 +121,7 @@
   "message.voicechat.show_group_hud.disabled": "Press to show the group chat HUD.",
   "message.voicechat.recording.disabled": "Press to start recording.",
   "message.voicechat.recording.enabled": "Press to stop recording.",
-  "message.voicechat.no_speak_permission": "You do not have permission to speak",
+  "message.voicechat.no_speak_blocked": "The server is blocking your ability to speak",
   "message.voicechat.no_listen_permission": "You do not have permission to hear the voice chat",
   "message.voicechat.no_group_permission": "You do not have permission to join groups",
   "message.voicechat.search_hint": "Search...",

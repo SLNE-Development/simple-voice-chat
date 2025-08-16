@@ -113,6 +113,7 @@
   "message.voicechat.show_group_hud.disabled": "Appuyez pour afficher l'interface utilisateur de la discussion de groupe",
   "message.voicechat.recording.disabled": "Appuyez pour commencer l'enregistrement",
   "message.voicechat.recording.enabled": "Appuyez pour arrêter l'enregistrement",
+  "message.voicechat.no_speak_blocked": "Le serveur bloque votre possibilité de parler",
   "message.voicechat.no_speak_permission": "Vous n'avez pas l'autorisation de parler",
   "message.voicechat.no_listen_permission": "Vous n'avez pas l'autorisation d'écouter le chat vocal",
   "message.voicechat.no_group_permission": "Vous n'avez pas l'autorisation de rejoindre des groupes",

@@ -116,6 +116,7 @@
   "message.voicechat.show_group_hud.disabled": "برای نمایش HUD ﭼت گروهی فشار دﻫﻴد.",
   "message.voicechat.recording.disabled": "برای شروع ضبط فشار دﻫﻴد.",
   "message.voicechat.recording.enabled": "برای توقف ضبط فشار دﻫﻴد.",
+  "message.voicechat.no_speak_blocked": "سرور امکان صحبت کردن شما را مسدود کرده است",
   "message.voicechat.no_speak_permission": "شما مجوز صحبت کردن ندارید",
   "message.voicechat.no_listen_permission": "شما مجوز شنیدن ﭼت صوتی را ندارید",
   "message.voicechat.no_group_permission": "شما مجوز پیوستن به گروه‌ها را ندارید",

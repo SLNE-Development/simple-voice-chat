@@ -27,5 +27,6 @@
   "message.voicechat.back": "Indietro",
   "message.voicechat.client_not_connected": "Client non connesso",
   "message.voicechat.icons_hidden": "Icone Chat Vocale nascoste",
-  "message.voicechat.icons_visible": "Icone Chat Vocale visibili"
+  "message.voicechat.icons_visible": "Icone Chat Vocale visibili",
+  "message.voicechat.no_speak_blocked": "Il server blocca la tua possibilità di parlare"
 }

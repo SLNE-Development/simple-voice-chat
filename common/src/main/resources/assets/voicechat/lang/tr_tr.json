@@ -116,6 +116,7 @@
   "message.voicechat.show_group_hud.disabled": "Grup sohbet arayüzünü göstermek için tıkla",
   "message.voicechat.recording.disabled": "Kayıta başlamak için tıkla",
   "message.voicechat.recording.enabled": "Kayıtı bitirmek için tıkla",
+  "message.voicechat.no_speak_blocked": "Sunucu konuşma yeteneğinizi engelliyor",
   "message.voicechat.no_speak_permission": "Konuşma izniniz yok",
   "message.voicechat.no_listen_permission": "Sesli sohbeti duyma izniniz yok",
   "message.voicechat.no_group_permission": "Gruplara girme izniniz yok",

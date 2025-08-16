@@ -117,6 +117,7 @@
   "message.voicechat.show_group_hud.disabled": "点击以显示群聊HUD",
   "message.voicechat.recording.disabled": "点击以开始录音",
   "message.voicechat.recording.enabled": "点击以停止录音",
+  "message.voicechat.no_speak_blocked": "服务器正在阻止您发言",
   "message.voicechat.no_speak_permission": "你没有权限发言",
   "message.voicechat.no_listen_permission": "你没有权限听到语音聊天",
   "message.voicechat.no_group_permission": "你没有权限加入群组",

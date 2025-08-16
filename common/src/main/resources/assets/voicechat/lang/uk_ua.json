@@ -115,6 +115,7 @@
   "message.voicechat.show_group_hud.disabled": "Натисніть, щоб показати HUD групового чату",
   "message.voicechat.recording.disabled": "Натисніть, щоб почати запис",
   "message.voicechat.recording.enabled": "Натисніть, щоб зупинити запис",
+  "message.voicechat.no_speak_blocked": "Сервер блокує вашу можливість говорити",
   "message.voicechat.no_speak_permission": "Ви не маєте дозволу говорити",
   "message.voicechat.no_listen_permission": "Ви не маєте дозволу прослуховувати голосовий чат",
   "message.voicechat.no_group_permission": "Ви не маєте дозволу приєднуватися до груп",

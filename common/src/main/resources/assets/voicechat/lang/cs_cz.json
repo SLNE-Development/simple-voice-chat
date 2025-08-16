@@ -110,5 +110,6 @@
   "cloth_config.voicechat.config.group_hud_icon_scale": "Velikost skupinové HUD ikony",
   "cloth_config.voicechat.config.group_player_icon_pos_x": "Skupinová HUD ikona X pos",
   "cloth_config.voicechat.config.group_player_icon_pos_y": "Skupinová HUD ikona Y pos",
-  "cloth_config.voicechat.config.show_own_group_icon": "Zobrazit vlastní skupinovou HUD ikonu"
+  "cloth_config.voicechat.config.show_own_group_icon": "Zobrazit vlastní skupinovou HUD ikonu",
+  "message.voicechat.no_speak_blocked": "Server blokuje vaši možnost mluvit"
 }

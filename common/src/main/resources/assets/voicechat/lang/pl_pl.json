@@ -116,6 +116,7 @@
   "message.voicechat.show_group_hud.disabled": "Naciśnij, aby pokazać HUD czatu grupowego.",
   "message.voicechat.recording.disabled": "Naciśnij, aby rozpocząć nagrywanie.",
   "message.voicechat.recording.enabled": "Naciśnij, aby zatrzymać nagrywanie.",
+  "message.voicechat.no_speak_blocked": "Serwer blokuje twoją możliwość mówienia",
   "message.voicechat.no_speak_permission": "Nie masz uprawnień do mówienia",
   "message.voicechat.no_listen_permission": "Nie masz uprawnień do słuchania czatu głosowego",
   "message.voicechat.no_group_permission": "Nie masz uprawnień do dołączania do grup",
