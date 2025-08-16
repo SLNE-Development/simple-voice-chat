@@ -5,6 +5,8 @@ import de.maxhenkel.voicechat.api.ServerPlayer;
 
 public class ServerPlayerImpl extends PlayerImpl implements ServerPlayer {
 
+    private boolean blocked = false;
+
     public ServerPlayerImpl(net.minecraft.server.level.ServerPlayer entity) {
         super(entity);
     }
@@ -16,5 +18,15 @@ public class ServerPlayerImpl extends PlayerImpl implements ServerPlayer {
     @Override
     public ServerLevel getServerLevel() {
         return new ServerLevelImpl((net.minecraft.server.level.ServerLevel) entity.level());
+    }
+
+    @Override
+    public boolean isBlocked() {
+        return blocked;
+    }
+
+    @Override
+    public void setBlocked(boolean blocked) {
+        this.blocked = blocked;
     }
 }
